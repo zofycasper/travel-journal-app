@@ -1,12 +1,11 @@
 import React from "react";
+import logo from "../image/logo.png";
 
 export default function Header() {
     return (
         <div className="header">
-            <img
-                src="C:\Users\1\Desktop\travel-journal-app\src\img\logo.png"
-                alt="logo"
-            />
+            <img src={logo} alt="logo" className="header-logo" />
+            <h1 className="header-title">my travel journal.</h1>
         </div>
     );
 }
