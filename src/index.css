@@ -9,10 +9,10 @@ body {
     justify-content: center;
     height: 100vh;
     /* align-items: center; */
-    background-color: #2b283a;
+    background-color: rgb(245, 242, 237);
 }
 .app {
-    width: 550px;
+    max-width: 550px;
     background-color: white;
 }
 
@@ -49,6 +49,7 @@ body {
 
 .card {
     display: flex;
+    align-items: center;
     border-left: none;
     border-right: none;
     padding-top: 20px;
