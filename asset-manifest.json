@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/travel-journal-app/static/css/main.100ffe42.css",
+    "main.css": "/travel-journal-app/static/css/main.cd46eb1c.css",
     "main.js": "/travel-journal-app/static/js/main.671d100b.js",
     "static/js/787.5aa31c15.chunk.js": "/travel-journal-app/static/js/787.5aa31c15.chunk.js",
     "static/media/grand.jpg": "/travel-journal-app/static/media/grand.3c31c4d3ab0c8f3b6582.jpg",
@@ -9,12 +9,12 @@
     "static/media/sydney.png": "/travel-journal-app/static/media/sydney.a7777cfa13f9fdf2f71c.png",
     "static/media/fuji.png": "/travel-journal-app/static/media/fuji.7125313dd9a7b8346e7a.png",
     "index.html": "/travel-journal-app/index.html",
-    "main.100ffe42.css.map": "/travel-journal-app/static/css/main.100ffe42.css.map",
+    "main.cd46eb1c.css.map": "/travel-journal-app/static/css/main.cd46eb1c.css.map",
     "main.671d100b.js.map": "/travel-journal-app/static/js/main.671d100b.js.map",
     "787.5aa31c15.chunk.js.map": "/travel-journal-app/static/js/787.5aa31c15.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.100ffe42.css",
+    "static/css/main.cd46eb1c.css",
     "static/js/main.671d100b.js"
   ]
 }
